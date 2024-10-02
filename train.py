@@ -21,3 +21,4 @@ print(f"Model accuracy: {accuracy * 100:.2f}%")
 # Save model
 with open('model.pkl', 'wb') as f:
     pickle.dump(model, f)
+# darshita Jindal
